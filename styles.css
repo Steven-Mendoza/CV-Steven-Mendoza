@@ -1,0 +1,21 @@
+body{
+  background-color: white;
+}
+hr{
+  border-color: #46b3e6;
+  border-style: dotted none none;
+  width: 20%;
+  border-width: 8px;
+  align-content: center;
+}
+
+h1, h2{
+  color: #151965;
+}
+p{
+  color: #2b3595;
+}
+
+img{
+  border-radius: 100%;
+}
